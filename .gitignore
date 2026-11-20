@@ -5,7 +5,11 @@
 *.exe
 *.o
 *.so
+
+# secrets and environment
 *.env
+credentials.json
+
 
 # Packages #
 ############
