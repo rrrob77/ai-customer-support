@@ -8,6 +8,9 @@
 
 # secrets and environment
 *.env
+.env
+.env.*
+!.env.example
 credentials.json
 
 
